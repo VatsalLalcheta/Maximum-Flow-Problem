@@ -3,4 +3,5 @@ Implimentation of Ford Flukerson's algorithm in JAVA to solve maximum flow probl
 
 To determine the maximum possible flow in a network Ford Fulkerson's algorithm is used. 
 For example, 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/ford_fulkerson11.png
